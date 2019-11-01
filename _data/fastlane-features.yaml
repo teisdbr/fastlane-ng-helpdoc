@@ -1,0 +1,8 @@
+- name: Public Features
+  features:
+    - Applicant Account Registration
+    - Public Reporting
+- name: Applicant Features
+  features:
+    - Document Checklist for proof required within the applications or compliance forms.
+    - Ability to create projects and submit all project forms for each project electronically. Available forms are Advance Notifications, Applications, Affidavit of Final Cost (AFC), Project Completion Reports (PCR), Employee
