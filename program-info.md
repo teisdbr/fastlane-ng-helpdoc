@@ -1,6 +1,6 @@
 ---
 title: Incentive Program Descriptions
-permalink: /incentive/programs
+permalink: /fastlane-ng-helpdoc/incentive/programs
 ---
 
 {% for program in site.data.program-info %}

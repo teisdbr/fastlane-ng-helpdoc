@@ -1,7 +1,7 @@
 ---
 title: Fastlane System Specifications 
 layout: default
-permalink: /public
+permalink: /fastlane-ng-helpdoc/public
 ---
 <div style="margin-left:-15px; margin-bottom: -15px;"  class="wow zoomIn"><a name="public"></a>
   <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/public-01.png" class="img-responsive"/>

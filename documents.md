@@ -1,5 +1,5 @@
 ---
 title: Documents
-permalink: /documents
+permalink: /fastlane-ng-helpdoc/documents
 ---
 # Amazing!!

@@ -1,7 +1,7 @@
 ---
 title: Fastlane Incentive Programs
 layout: default
-permalink: /programs
+permalink: /fastlane-ng-helpdoc/programs
 ---
 
 <div style="margin-left:-15px; margin-bottom: -15px;"  class="wow zoomIn"><a name="incentives"></a>

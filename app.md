@@ -1,7 +1,7 @@
 ---
 title: Fastlane Applicant User Screens
 layout: default
-permalink: /app
+permalink: /fastlane-ng-helpdoc/app
 ---
 <div style="margin-left:-15px; margin-bottom: -15px;"  class="wow zoomIn"><a name="applicant"></a>
   <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/public-01.png" class="img-responsive"/>
