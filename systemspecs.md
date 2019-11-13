@@ -1,7 +1,7 @@
 ---
 title: Fastlane System Specifications 
 layout: default
-permalink: /fastlane-ng-helpdoc/specs
+permalink: /specs
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Fastlane Help Center
 layout: default
-permalink: /fastlane-ng-helpdoc/feature
+permalink: /feature
 ---
 
 <div style="margin-left:-15px; margin-bottom: -15px;" class="wow zoomIn"><a name="feature"></a>
