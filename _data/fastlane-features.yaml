@@ -5,8 +5,19 @@
 - name: Applicant Features
   features:
     - Document Checklist for proof required within the applications or compliance forms.
-    - Ability to create projects and submit all project forms for each project electronically. Available forms are Advance Notifications, Applications, Affidavit of Final Cost (AFC), Project Completion Reports (PCR), Employee
-- name: Board Features
+    - Ability to create projects and submit all project forms for each project electronically. Available forms are Advance Notifications, Applications, Affidavit of Final Cost (AFC), Project Completion Reports (PCR), Employee Certification Reports (ECR), Annual Certification Reports (ACR), Renewals, Change of Project Location, Change of Company Name, Full Transfer, Partial Transfer, Change of Owners and Affiliates, and Contract Closure.
+    - Ability to save partial data and finish entry later
+    - Ability to control electronic guest signature for each form
+    - Ability to control electronic guest payment using credit cards or echecks for each form
+    - Ability to track status and activity of all projects and forms
+    - Email notifications for submittal confirmation, manager review decisions, board notices, board decisions, contract processing, and certification notices.
+    - Integration with Adobe Sign for electronic contract signature processing
+    - Ability to request access to manage existing projects with required proof of authorization
+    - Ability to pay for Verification Report Deposits
+    - Ability to upload Cost Report and trigger Verification Report Audit by LED selected CPA
+- name: Board Member Features
   features:
-    - Example 1
-    - Example 2
+    - Ability to access projects for each board meeting and view details for each application, renewal, or contract change
+- name: Assessor and External Reviewer Features
+  features:
+    - Ability for Department of Revenue, Department of Labor, and Local Governing Authorities the ability to search and review designated projects to aid in interoperability between the state and local agencies.
