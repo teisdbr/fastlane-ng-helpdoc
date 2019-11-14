@@ -7,6 +7,28 @@
                         Help Center</b></a>
             </li>
             <li>
+                <li><div href="./quicktips.html">Quick Tips</div>
+                    <ul>
+                    <li><a href="./quicktips.html#gettingstarted">Getting Started</a></li>
+                    <li>
+                    <div
+                            style="font-size:13px; display:inline-block;  font-family:'Lucida Grande', Geneva, sans-serif;">
+                            Form Processing</div>
+                    <ul>
+                    <li><a href="./quicktips.html#forms">Form Processing</a></li>
+                    <li><a href="./quicktips.html#BIforms">Business Incentive Form Processing</a></li>
+                    <li><a href="./quicktips.html#ciforms">C&I Board Processing</a></li>
+                    
+                   
+                </ul></li>
+
+                    <li><a href="./quicktips.html#certprocessing">Entertainment Incentive Form Processing</a></li>
+                    <li><a href="./quicktips.html#signprocessing">Signature Processing</a></li>
+                   
+                </ul>
+              
+            </li>
+            <li>
                 <div href="./feature.html">Fastlane Features</div>
                 <ul>
                     <li><a href="./feature.html#feature">Features</a></li>
