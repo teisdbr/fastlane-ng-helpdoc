@@ -33,6 +33,8 @@ Newly created projects will feature a bouncing red exclamation icon. This icon s
 
  <img src="https://storage.googleapis.com/fastlane-public-files/Images/Help/projectlist.gif" width="800" class="ml-4 mb-4 boxshadow">
 
+<br>
+
 ## Add New Project
 
 ------
@@ -109,9 +111,11 @@ Examples: 20009999-ITE, 20009999-A-ITE, 20009999-PT-ITE, and 20009999-A-PT-ITE
 
 **Note:** The Entertainment ID for FILM and DM are assigned by the Entertainment Incentive manager while processing the application. 
 
-<br> 
+<br>
 
 ------
+
+<br>
 
 ## Request Project Access<a name="projectaccess"></a>
 
@@ -137,6 +141,10 @@ Whether the access request is approved or denied, the user will be notified via 
 
 <br>
 
+------
+
+<br>
+
 ## Account Settings<a name="Acct"></a>
 
 To view the account settings, click the blue human icon on the top right corner of the screen, then click Account Settings. 
@@ -153,7 +161,7 @@ Any changes made to this page, must be saved by clicking “Update.” When the 
 
 ------
 
-### **Project Summary**<a name="ProjectSummary"></a>
+### Project Summary<a name="ProjectSummary"></a>
 
 The Project Summary is an up-to-date detailed summary view of the project. The summary contains the following components:
 
@@ -192,7 +200,7 @@ The menu options are:
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/hamburgermenu.png" width="800" class="ml-4 boxshadow">
 
- 
+ <br>
 
 #### Project Information<a name="PSProjectInfo"></a>
 
@@ -212,11 +220,15 @@ The Project Information section displays the identifying project details. Typica
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/dmprojectinfo.png" width="800" class="ml-4 boxshadow">
 
+<br>
+
 #### Important Dates<a name="PSImportantDates"></a>
 
 The Important Dates component shows all critical and upcoming dates associated with the project. As with the Project Information, these dates are specific to the incentive program. Shown below is an example of a Business Incentive Important Dates card. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/importantdates.png" width="800" class="ml-4 boxshadow">
+
+<br>
 
 #### Forms<a name="PSForms"></a>
 
@@ -226,11 +238,15 @@ The Forms component displays all forms in the project. To view the individual fo
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/forms-2.png" width="800" class="ml-4 boxshadow">
 
+<br>
+
 #### Attachments<a name="PSAttach"></a>
 
 The Attachments component displays all attachments uploaded to the project. To download the attachment, click the blue download icon. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/attach.png" width="800" class="ml-4 boxshadow">
+
+<br>
 
 #### Project Duration<a name="PSProjectDuration"></a>
 
@@ -238,11 +254,15 @@ The Project Duration component displays the project start and end dates submitte
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/duration.png" width="800" class="ml-4 boxshadow">
 
+<br>
+
 #### Advance<a name="PSAdvance"></a>
 
 The Advance component provides a summarized view of estimated investments, jobs and payroll data entered on the Advance form. If the incentive program doesn’t require an Advance, this section will not display. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-advance.png" width="800" class="ml-4 boxshadow">
+
+<br>
 
 #### Application<a name="PSApplication"></a>
 
@@ -250,11 +270,15 @@ The Application component provides a summarized view of estimated investments, j
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-application.png" width="800" class="ml-4 boxshadow">
 
+<br>
+
 #### Affidavit of Final Cost <a name="PSAFC"></a>
 
 The Affidavit of Final Cost component provides the summaries view of the final investments for the project. If the incentive program does not require and AFC, this section will not display. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-afc.png" width="800" class="ml-4 boxshadow">
+
+<br>
 
 #### Annual Certifications<a name="PSACR"></a>
 
@@ -262,11 +286,15 @@ For the QJ program, the Annual Certification component is a summarized view of t
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-acr.png" width="800" class="ml-4 boxshadow">
 
+<br>
+
 #### Employee Certifications<a name="PSECR"></a>
 
 For the EZ and QJ programs, the Employee Certification component is a summarized view of the Employee Certification Report data, submitted yearly per contract requirement.
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-ecr.png" width="800" class="ml-4 boxshadow">
+
+<br>
 
 #### External Review Processing<a name="PSERs"></a>
 
@@ -274,13 +302,17 @@ Certain incentive programs (EZ, ITE, QJ and RTA) require external evaluation of 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-er.png" width="800" class="ml-4 boxshadow">
 
+<br>
+
 #### Board Processing <a name="PSBoard"></a>
 
 Certain incentive programs (EZ, ITE, QJ and RTA) require board approval before a contract can be issued. The Board Processing component provides an up-to-date view of where forms are in the Board process, including form type, board date, board status and comment (if available.) If there is no Board process for an incentive program, this section will not display. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-board.png" width="800" class="ml-4 boxshadow">
 
-#### Signature Processing<a name="PSSign"></a>
+
+
+#### <br>Signature Processing<a name="PSSign"></a>
 
 The Signature Processing component provides an up-to-date view of where documents are in the signature process, including document type, date sent, signature status, history and download. To view the signature history, click the blue icon. To download the executed document, click the blue download icon. 
 
@@ -288,11 +320,13 @@ The Signature Processing component provides an up-to-date view of where document
 
 For more information on signature processing, see the [Signature Section](#_Signatures). 
 
- 
+ <br>
 
 #### Project Contacts <a name="PSContacts"></a>
 
 The Project Contact component shows all current contacts attached to the particular project. Details provided include Contact Name, Email Address, Company Name, Mailing Address, Phone Number and Contact Type. For further explanation on Contact Type, see the <a href="/app#ContactReq">System Contact Requirements</a> section. 
+
+<br>
 
 #### Payments<a name="PSPay"></a>
 
@@ -302,7 +336,7 @@ The Payments component displays all payments made in this project. This serves a
 
 ------
 
-
+<br>
 
 ### What Are Forms?<a name="Forms"></a>
 
@@ -874,6 +908,230 @@ To access the Manage Project Forms page by the Project Summary, click the Projec
 
 Then once in the Project Summary, click the hamburger menu in the top right-hand corner of the screen. From there, the select “Manage Forms.”
 
-Once on the Manage Project Forms page, select the form type from the dropdown and click “Add.” See <a name="Forms2">Available Forms by Program</a> in the previous section for the notes on when each form is available for creation. 
+Once on the Manage Project Forms page, select the form type from the dropdown and click “Add.” See <a href="#Forms2">Available Forms by Program</a> in the previous section for the notes on when each form is available for creation. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/Help/CreatingForms.gif" width="800" class="ml-4 boxshadow">
+
+<br>
+
+------
+
+<br>
+
+## System Contact Requirements <a name="ContactReq"></a>
+
+FNG has three Contact Types – Business Signatory, Business, and Consultant. 
+
+### Business Signatory — REQUIRED
+
+The Business Signatory MUST have legal authority to sign project forms. The Business Signatory contact type is required to electronically sign various forms throughout the course of the project.
+
+The Business Signatory is/has:
+
+- Legal signature authority
+- Authorized Representative for Company/Project
+
+The Business Signatory contact person CANNOT sign Contract documents unless they are designated as the CONTRACT SIGNATORY in the Project. 
+
+There can only be ONE Business Signatory. 
+
+### Business
+
+The Business contact type is any person that needs to be contacted regarding a project.
+
+There can be multiple Business contacts. 
+
+### Consultant
+
+A Consultant can file on behalf of a company and act as the company representative for a project, providing they have legal consent. This contact type is typically only used for Business Incentive Programs but can also apply for both Entertainment Incentives as well. 
+
+A CONTRACT SIGNATORY must still be assigned in the Project. 
+
+A Consultant contact type CANNOT sign Contract documents.
+
+There can be multiple Consultant contacts. 
+
+------
+
+<br>
+
+## Submission Scenarios<a name="SubScenarios"></a>
+
+There three processes for submitting a form. The process depends on the account holder Contact Type. The three scenarios are:
+
+- Account Holder is Business Signatory 
+- Account Holder is Business Contact
+- Account Holder is Consultant Contact 
+
+ 
+
+### (1) Account Holder is Business Signatory <a name="Scenario1"></a>
+
+If the account holder is the Business Signatory, complete the following steps:
+
+1. Complete all required fields in the form and upload all necessary attachments. 
+
+2. Answer “No” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?”
+
+3. Add the account holder as the Business Signatory Contact Type in the Project Contact section.
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+
+This section will validate based on the following: 1) a Business Signatory is created, 2) account holder email address is added as a contact. 
+
+\4.   Enter the contact information for a Contract Signatory. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+
+\5.   Check the certification statement, enter the signers name, and sign the form. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
+
+\6.   Once signed the “Sign” button will become enabled. Click “Sign.”
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)
+
+The system will notify the user once the signature is accepted. Click “OK” and the system will redirect the user to a read only view of the form. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
+
+\7.   Review the form for errors. If there are errors, click “Unlock for editing” to fix the errors and resign. If there are no errors, click “Pay.”
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)
+
+The system will then confirm that the form is ready for payment. Click “Yes.”
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)
+
+\8.   Complete the information required on the payment screens. Once paid, the system will notify when the form is “Received.”
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)
+
+### (2) Account Holder is Business <a name="Scenario2"></a>
+
+If the account holder is the Business Contact, complete the following steps:
+
+\1.   Complete all required fields in the form and upload all necessary attachments. 
+
+\2.   Answer “No” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?”
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
+\3.   Add the account holder as the Business Contact Type in the Project Contact section.
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+
+Once the Business Contact has been added, then add the Business Signatory Contact. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)
+
+This section will validate based on the following: 1) a Business Signatory is created, 2) account holder email address is added as a contact. 
+
+\4.   Enter the contact information for a Contract Signatory. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+
+\5.   Click “Send for Signature.”
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)
+
+The system will then ask a series of questions. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)
+
+The answer to the question, “Will the signee also pay for this form?” will determine the next steps in this flow. 
+
+o  If the answer is “Yes” the signer will pay immediately after signing.
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
+
+§ The system will notify the Business Signatory via email. The signer will click the link in the email, sign the form and then pay. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)
+
+The Business Signatory in this scenario does NOT need an account to sign. The link in the email will give the signer a guest token. This guest token allows the user to sign for five days. After five days, the form must be unlocked by the account holder and resent for signature. 
+
+o  If the answer is “No” then once the signer signs off on the form, the account holder will receive an email notification when it’s time to pay and complete the submission. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
+
+§ The system will notify the Business Signatory via email. The signer will click the link in the email and sign the form. Once signed, the system will let the signer know that the contacts have been notified to pay for the form. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)
+
+§ The Business Contact will then click the link in the email, sign into their account and pay for the form. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image017.png)
+
+The signer also has the right to decline signature. This may happen for various reasons, but typically, this occurs when information on the form is incorrect. If this happens, the signer will click “I do not wish to sign” and they will need to contact the Business Contact who completed the form. In order for this form to be signed, it will need to go through the send process again. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image018.png)
+
+### (3) Account Holder is Consultant <a name="Scenario3"></a>
+
+If the account holder is the Consultant Contact, complete the following steps:
+
+\1.   Complete all required fields in the form and upload all necessary attachments. 
+
+\2.   Answer “Yes” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?” And then generate the Consultant Disclosure. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image019.png)
+
+\3.   Upload the signed Consultant Disclosure. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image020.png)
+
+\4.   Add the account holder as the Consultant Contact Type in the Project Contact section.
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+
+Once the Consultant Contact has been added, then add the Business Signatory Contact. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image021.png)
+
+This section will validate based on the following: 1) a Business Signatory is created, 2) account holder email address is added as a contact. 
+
+\5.   Enter the contact information for a Contract Signatory. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+
+\6.   Click “Send for Signature.”
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)
+
+The system will then ask a series of questions. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)
+
+The answer to the question, “Will the signee also pay for this form?” will determine the next steps for this flow. 
+
+o  If the answer is “Yes” the signer will pay immediately after signing.
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
+
+§ The system will notify the Business Signatory via email. The signer will click the link in the email, sign the form and then pay. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image022.png)
+
+The Business Signatory in this scenario does NOT need an account to sign. The link in the email will give the signer a guest token. This guest token allows the user to sign for five days. After five days, the form must be unlocked by the account holder and resent for signature. 
+
+o  If the answer is “No” then once the signer signs off on the form, the account holder will receive an email notification when it’s time to pay and complete the submission. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
+
+§ The system will notify the Business Signatory via email. The signer will click the link in the email and sign the form. Once signed, the system will let the signer know that the contacts have been notified to pay for the form. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)
+
+§ The Business Contact will then click the link in the email, sign into their account and pay for the form. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image023.png)
+
+The signer also has the right to decline signature. This may happen for various reasons, but typically, this occurs when information on the form is incorrect. If this happens, the signer will click “I do not wish to sign” and they will need to contact the Business Contact who completed the form. In order for this form to be signed, it will need to go through the send process again. 
+
+![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image018.png)
+

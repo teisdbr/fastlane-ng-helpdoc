@@ -24,7 +24,11 @@ The FNG (Fastlane Next Generation) landing page serves as an introduction to the
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/landing.png" width="800" class="ml-4 boxshadow">
 
+<br>
 
+------
+
+<br>
 
 ## Login<a name="Login"></a>
 
@@ -33,6 +37,12 @@ All user types will utilize the same portal for system access.
 Account login requires a valid email address and secure password.
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/login.png" width="800" class="ml-4 boxshadow">
+
+<br>
+
+------
+
+<br>
 
 ## Forgot Password<a name="FP"></a>
 
@@ -58,6 +68,12 @@ Once the password is reset, the use is notified that they will be redirected to 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/Help/ForgotPassword.gif" width="800" class="ml-4 boxshadow">
 
+<br>
+
+------
+
+<br>
+
 ## Create an Account<a name="CreateAcct"></a>
 
 To create an account, click the Register link on the left-hand navigation menu, or click one of the “Create an Account” buttons on the landing page or login portal. 
@@ -78,6 +94,12 @@ The system will send the following email:
 
 The recipient must click the link to verify their email in order to access the account. Once the account has been verified, the use can then click “Continue” and proceed to login. 
 
+<br>
+
+------
+
+<br>
+
 ## Public Reports<a name="PublicReports"></a>
 
 Public Reports is a series of dump reports for system data. The reports are updated nightly at midnight. 
@@ -85,6 +107,12 @@ Public Reports is a series of dump reports for system data. The reports are upda
 Currently only the Business Incentive program reports are available. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/publicreports.png" width="800" class="ml-4 boxshadow">
+
+<br>
+
+------
+
+<br>
 
 ## Public Search<a name="PublicSearch"></a>
 
@@ -131,6 +159,12 @@ To view additional details in the search grid, click the blue plus icon on each 
 To search the Entertainment Incentives Intial Certifications, click the blue fitler button. Then select the desired program. Additional filters of Application Received Date and Initial Cert Issuance Date are also available. Click "search" and the results will display. 
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/Help/initialcertsearch.gif" width="800" class="ml-4 boxshadow">
+
+<br>
+
+------
+
+<br>
 
 ## Document Checklist<a name="DocCheck"></a>
 
