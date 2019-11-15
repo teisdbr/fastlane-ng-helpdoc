@@ -969,29 +969,28 @@ There three processes for submitting a form. The process depends on the account 
 
 If the account holder is the Business Signatory, complete the following steps:
 
-1. Complete all required fields in the form and upload all necessary attachments. 
+- Complete all required fields in the form and upload all necessary attachments.
+- Answer “No” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?”
+- Add the account holder as the Business Signatory Contact Type in the Project Contact section.
+  - This section will validate based on the following - 1) a Business Signatory is created and 2) account holder email address is added as a contact. 
 
-2. Answer “No” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?”
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/addcontacts.png" width="800" class="ml-4 boxshadow">
 
-3. Add the account holder as the Business Signatory Contact Type in the Project Contact section.
+- Enter the contact information for a Contract Signatory.
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/contractsign.png" width="800" class="ml-4 boxshadow">
 
-This section will validate based on the following: 1) a Business Signatory is created, 2) account holder email address is added as a contact. 
 
-\4.   Enter the contact information for a Contract Signatory. 
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+- Check the certification statement, enter the signers name, and sign the form. 
 
-\5.   Check the certification statement, enter the signers name, and sign the form. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/certandsign.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
+- Once signed the “Sign” button will become enabled. Click “Sign.”
 
-\6.   Once signed the “Sign” button will become enabled. Click “Sign.”
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/signform.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)
-
-The system will notify the user once the signature is accepted. Click “OK” and the system will redirect the user to a read only view of the form. 
+- The system will notify the user once the signature is accepted. Click “OK” and the system will redirect the user to a read only view of the form. 
 
 ![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
 
