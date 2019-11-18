@@ -33,8 +33,8 @@
                     <ul>
                    
 
-                    <li><a href="./faqs.html#BI">Business Incentive FAQs</a></li>
-                     <li><a href="./faqs.html#ENT">Entertainment Incentive FAQs</a></li>
+                    <li><a href="./faqs.html#BIFAQ">Business Incentive FAQs</a></li>
+                     <li><a href="./faqs.html#ENTFAQ">Entertainment Incentive FAQs</a></li>
                    
                 </ul>
               
