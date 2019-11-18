@@ -2,7 +2,7 @@
     <nav class="navfloat" style="background-color:white;">
 
         <ul>
-            <li><a href="/help"
+            <li><a href="/#help"
                     style="font-size:large; display:inline-block; color: #1ab394; font-family:'Lucida Grande', Geneva, sans-serif; border-bottom: #046993 2px solid;"><b>Fastlane
                         Help Center</b></a>
             </li>

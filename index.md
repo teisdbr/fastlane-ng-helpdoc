@@ -1,9 +1,9 @@
 ---
 title: FastLane Help Center
 layout: default
-permalink: /help
+permalink: /
 ---
-<div style="margin-left:-15px; margin-bottom: -15px;" class="wow zoomIn">
+<div style="margin-left:-15px; margin-bottom: -15px;" class="wow zoomIn"><a name="help"></a>
   <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/help-head-01.png" class="img-responsive"/>
 </div>
 # Welcome to the FastLane Help Center!
