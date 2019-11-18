@@ -29,6 +29,22 @@
               
             </li>
             <li>
+                <li><div href="./faqs.html">FAQs</div>
+                    <ul>
+                   
+
+                    <li><a href="./faqs.html#BI">Business Incentive FAQs</a></li>
+                     <li><a href="./faqs.html#ENT">Entertainment Incentive FAQs</a></li>
+                   
+                </ul>
+              
+            </li>
+
+            <li><a href="./feature.html"
+                    style="font-size:large; display:inline-block; color: #1ab394; font-family:'Lucida Grande', Geneva, sans-serif; border-bottom: #046993 2px solid;"><b>Fastlane
+                        Applicant System Guide</b></a>
+            </li>
+            <li>
                 <div href="./feature.html">Fastlane Features</div>
                 <ul>
                     <li><a href="./feature.html#feature">Features</a></li>

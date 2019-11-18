@@ -1,5 +1,5 @@
 ---
-title: Fastlane Applicant User Screens
+title: Fastlane Applicant Quick Tips
 layout: default
 permalink: /quicktips
 ---
@@ -12,6 +12,8 @@ permalink: /quicktips
 ------
 
 ## Getting Started<a name="gettingstarted"></a>
+
+<br>
 
 ### Business Incentives
 

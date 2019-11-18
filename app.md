@@ -992,145 +992,92 @@ If the account holder is the Business Signatory, complete the following steps:
 
 - The system will notify the user once the signature is accepted. Click “OK” and the system will redirect the user to a read only view of the form. 
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/signok.png" width="800" class="ml-4 boxshadow">
 
-\7.   Review the form for errors. If there are errors, click “Unlock for editing” to fix the errors and resign. If there are no errors, click “Pay.”
+- Review the form for errors. If there are errors, click “Unlock for editing” to fix the errors and resign. If there are no errors, click “Pay.”
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/paybutton.png" width="800" class="ml-4 boxshadow">
 
-The system will then confirm that the form is ready for payment. Click “Yes.”
+- The system will then confirm that the form is ready for payment. Click “Yes.”
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/areyouready.png" width="800" class="ml-4 boxshadow">
 
-\8.   Complete the information required on the payment screens. Once paid, the system will notify when the form is “Received.”
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)
+- Complete the information required on the payment screens. Once paid, the system will notify when the form is “Received.”
 
 ### (2) Account Holder is Business <a name="Scenario2"></a>
 
-If the account holder is the Business Contact, complete the following steps:
+If the account holder is the Business Contact, complete the following steps
 
-\1.   Complete all required fields in the form and upload all necessary attachments. 
+- Complete all required fields in the form and upload all necessary attachments.
+- Answer “No” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?”
+- Add the account holder as the Business Contact Type in the Project Contact section. Once the Business Contact has been added, then add the Business Signatory Contact. 
+  - This section will validate based on the following - 1) a Business Signatory is created and 2) account holder email address is added as a contact. 
 
-\2.   Answer “No” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?”
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/addcontacts.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+- Enter the contact information for a Contract Signatory.
 
-\3.   Add the account holder as the Business Contact Type in the Project Contact section.
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/contractsign.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+- Click “Send for Signature.”
 
-Once the Business Contact has been added, then add the Business Signatory Contact. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/sendforsign.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)
+- The system will then ask a series of questions. The answer to the question, “Will the signee also pay for this form?” will determine the next steps in this flow. 
+  - If the answer is “Yes” the signer will pay immediately after signing.
+  - The system will notify the Business Signatory via email. The signer will click the link in the email, sign the form and then pay. 
+  - The Business Signatory in this scenario does NOT need an account to sign. The link in the email will give the signer a guest token. This guest token allows the user to sign for five days. After five days, the form must be unlocked by the account holder and resent for signature. 
+  - If the answer is “No” then once the signer signs off on the form, the account holder will receive an email notification when it’s time to pay and complete the submission. 
 
-This section will validate based on the following: 1) a Business Signatory is created, 2) account holder email address is added as a contact. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/bussignok.png" width="800" class="ml-4 boxshadow">
 
-\4.   Enter the contact information for a Contract Signatory. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/whopays.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/signemailsent.png" width="800" class="ml-4 boxshadow">
 
-\5.   Click “Send for Signature.”
+- The system will notify the Business Signatory via email. The signer will click the link in the email and sign the form. Once signed, the system will let the signer know that the contacts have been notified to pay for the form. 
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/signemail.png" width="800" class="ml-4 boxshadow">
 
-The system will then ask a series of questions. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)
-
-The answer to the question, “Will the signee also pay for this form?” will determine the next steps in this flow. 
-
-o  If the answer is “Yes” the signer will pay immediately after signing.
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
-
-§ The system will notify the Business Signatory via email. The signer will click the link in the email, sign the form and then pay. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)
-
-The Business Signatory in this scenario does NOT need an account to sign. The link in the email will give the signer a guest token. This guest token allows the user to sign for five days. After five days, the form must be unlocked by the account holder and resent for signature. 
-
-o  If the answer is “No” then once the signer signs off on the form, the account holder will receive an email notification when it’s time to pay and complete the submission. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
-
-§ The system will notify the Business Signatory via email. The signer will click the link in the email and sign the form. Once signed, the system will let the signer know that the contacts have been notified to pay for the form. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)
-
-§ The Business Contact will then click the link in the email, sign into their account and pay for the form. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image017.png)
-
-The signer also has the right to decline signature. This may happen for various reasons, but typically, this occurs when information on the form is incorrect. If this happens, the signer will click “I do not wish to sign” and they will need to contact the Business Contact who completed the form. In order for this form to be signed, it will need to go through the send process again. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image018.png)
+- The Business Contact will then click the link in the email, sign into their account and pay for the form. 
+- The signer also has the right to decline signature. This may happen for various reasons, but typically, this occurs when information on the form is incorrect. If this happens, the signer will click “I do not wish to sign” and they will need to contact the Business Contact who completed the form. In order for this form to be signed, it will need to go through the send process again. 
 
 ### (3) Account Holder is Consultant <a name="Scenario3"></a>
 
 If the account holder is the Consultant Contact, complete the following steps:
 
-\1.   Complete all required fields in the form and upload all necessary attachments. 
+- Complete all required fields in the form and upload all necessary attachments. 
+- Answer “Yes” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?” And then generate the Consultant Disclosure. 
 
-\2.   Answer “Yes” to the question “Are you a Third-Party Consultant managing this project on behalf of the business?” And then generate the Consultant Disclosure. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/genCD.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image019.png)
+- Upload the signed Consultant Disclosure. 
+- Add the account holder as the Consultant Contact Type in the Project Contact section. Once the Consultant Contact has been added, then add the Business Signatory Contact. 
+  - This section will validate based on the following: 1) a Business Signatory is created, 2) account holder email address is added as a contact. 
 
-\3.   Upload the signed Consultant Disclosure. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/addcontacts.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image020.png)
+- Enter the contact information for a Contract Signatory. 
 
-\4.   Add the account holder as the Consultant Contact Type in the Project Contact section.
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/contractsign.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+- Click “Send for Signature.”
 
-Once the Consultant Contact has been added, then add the Business Signatory Contact. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/contractsign.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image021.png)
+- The system will then ask a series of questions. The answer to the question, “Will the signee also pay for this form?” will determine the next steps in this flow. 
+  - If the answer is “Yes” the signer will pay immediately after signing.
+  - The system will notify the Business Signatory via email. The signer will click the link in the email, sign the form and then pay. 
+  - The Business Signatory in this scenario does NOT need an account to sign. The link in the email will give the signer a guest token. This guest token allows the user to sign for five days. After five days, the form must be unlocked by the account holder and resent for signature. 
+  - If the answer is “No” then once the signer signs off on the form, the account holder will receive an email notification when it’s time to pay and complete the submission. 
 
-This section will validate based on the following: 1) a Business Signatory is created, 2) account holder email address is added as a contact. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/bussignok.png" width="800" class="ml-4 boxshadow">
 
-\5.   Enter the contact information for a Contract Signatory. 
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/whopays.png" width="800" class="ml-4 boxshadow">
 
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+<img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/signemailsent.png" width="800" class="ml-4 boxshadow">
 
-\6.   Click “Send for Signature.”
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)
-
-The system will then ask a series of questions. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)
-
-The answer to the question, “Will the signee also pay for this form?” will determine the next steps for this flow. 
-
-o  If the answer is “Yes” the signer will pay immediately after signing.
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
-
-§ The system will notify the Business Signatory via email. The signer will click the link in the email, sign the form and then pay. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image022.png)
-
-The Business Signatory in this scenario does NOT need an account to sign. The link in the email will give the signer a guest token. This guest token allows the user to sign for five days. After five days, the form must be unlocked by the account holder and resent for signature. 
-
-o  If the answer is “No” then once the signer signs off on the form, the account holder will receive an email notification when it’s time to pay and complete the submission. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)
-
-§ The system will notify the Business Signatory via email. The signer will click the link in the email and sign the form. Once signed, the system will let the signer know that the contacts have been notified to pay for the form. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)
-
-§ The Business Contact will then click the link in the email, sign into their account and pay for the form. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image023.png)
-
-The signer also has the right to decline signature. This may happen for various reasons, but typically, this occurs when information on the form is incorrect. If this happens, the signer will click “I do not wish to sign” and they will need to contact the Business Contact who completed the form. In order for this form to be signed, it will need to go through the send process again. 
-
-![img](file:////Users/clewis/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image018.png)
+- The system will notify the Business Signatory via email. The signer will click the link in the email and sign the form. Once signed, the system will let the signer know that the contacts have been notified to pay for the form. 
+- The Consultant Contact will then click the link in the email, sign into their account and pay for the form. 
+- The signer also has the right to decline signature. This may happen for various reasons, but typically, this occurs when information on the form is incorrect. If this happens, the signer will click “I do not wish to sign” and they will need to contact the Business Contact who completed the form. In order for this form to be signed, it will need to go through the send process again. 
 
