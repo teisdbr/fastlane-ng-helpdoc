@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- HEAD -->
+  {% include head-mgmt.html %}
+  <body>
+    
+    {% include header.html %}
+    <!-- CONTENT -->
+    <div class="row " style="height: 100%;">
+    <div class="col-3" style="background-color:#e6e7e8;"> {% include navigation-mgmt.md %}</div>
+    <div class="col-9" style="background-color:#ffffff;">
+      {{ content }}
+     
+    </div>
+  </div>
+    <!-- FOOTER -->
+    <div>
+      {% include footer.html %}
+    </div>
+    <!-- SCRIPTS -->
+    {% include scripts.html %}
+  </body>
+</html>
