@@ -1,5 +1,5 @@
 ---
-title: Fastlane Help Center
+title: Fastlane Features
 layout: default
 permalink: /feature
 ---

@@ -318,8 +318,6 @@ The Signature Processing component provides an up-to-date view of where document
 
 <img src="https://storage.googleapis.com/fastlane-public-files/Images/HelpImages/ps-sign.png" width="800" class="ml-4 boxshadow">
 
-For more information on signature processing, see the [Signature Section](#_Signatures). 
-
  <br>
 
 #### Project Contacts <a name="PSContacts"></a>
